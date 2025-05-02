@@ -2,14 +2,14 @@ import React from "react";
 
 const LoginPage = () => {
   return (
-    <div className="">
+    <div>
       <div className="grid grid-cols-2 items-center gap-10">
-        <div className="relative flex items-center justify-center">
-          <img src="/bg.png" alt="background" className="" />
+        <div className="relative flex items-center ">
+          <img src="/bg-2.png" alt="background" className="h-screen w-full " />
           <img
             src="/image.png"
             alt="image"
-            className="absolute left-20 w-[403px] h-[422px]"
+            className="absolute left-35 w-[310px] h-[340px]"
           />
         </div>
         <div className="flex flex-col items-center justify-center gap-15">
