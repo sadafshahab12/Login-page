@@ -14,7 +14,7 @@ const LoginPage = () => {
         </div>
         <div className="flex flex-col items-center justify-center gap-15">
           <img
-            src="/public/logo.jpeg"
+            src="/logo.jpeg"
             alt="logo"
             className="w-[108px] h-[98px]"
           />
